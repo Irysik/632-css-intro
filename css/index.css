@@ -1,0 +1,49 @@
+
+
+
+
+
+.logo {
+    color: crimson;
+    padding: 5px;
+    border: 1px solid springgreen;
+    margin: 10px;
+    text-transform: uppercase;
+}
+
+h1,h2,h3 {
+margin: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+#contacts {
+    transform: rotate (180deg);
+}
+
+.banner h1 {
+    background-image: url(../img/baby-yoda.svg);
+    min-height: 400px;
+    background-size: cover;
+    background-position: center ;
+}
+
+.banner h1 {
+text-align: center;
+}
+ .banner button {
+     display: block;
+ }
+
+ .menu a {
+     display: block;
+ }
